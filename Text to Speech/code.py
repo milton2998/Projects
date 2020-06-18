@@ -1,8 +1,15 @@
 from gtts import gTTS
 import os
 
+
+
+
+
 # add text in the file if needed
 # f = open('text_for_speech.txt')
+
+
+
 print("Write the text here : ")
 x = input()
 language = 'en'
